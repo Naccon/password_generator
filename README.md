@@ -48,19 +48,3 @@ Characters after shuffle:  ['$', '5', 'L', 'P', 'Y', '6']
 ## 📂 Filename
 
 **password_generator.py**
-
----
-
-## 🧑‍🎨 Author
-
-**Naccon**  
-GitHub: [github.com/naccon](https://github.com/naccon)  
-Date: 2025-07-18  
-License: MIT  
-Version: 1.0
-
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
